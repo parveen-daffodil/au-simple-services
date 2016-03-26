@@ -107,65 +107,11 @@ When you’re providing services to complete a project scope, there are often ch
 
 ## Intellectual property
 
-This issue makes clear which party owns the [intellectual property](https://github.com/lawpatch/dictionary/blob/master/intellectual_property.md) in the product delivered by the contractor to the customer.
-
-There are 3 options.
-
-**The first option** gives the contractor ownership of the intellectual property that it creates – the customer has the right to use it under a licence.
-
-This option is advantageous to the contractor, since as owner of the intellectual property, they can reuse it for future customers.
-
-**The second option** creates a split between:
-- intellectual property owned by the contractor before the agreement; and
-- intellectual property created for the customer under this agreement.
-
-This option does not allow the contractor to reuse new intellectual property created for future customers.
-
-**The third option** transfers the ownership of all the code to the customer. This option should be used when the contractor uses none of their existing code for the services.
-
-### Contractor will own all the intellectual property in the Services IP and licenses the Customer to use it.
-
-- Customer [transfers ownership of the intellectual property rights](https://github.com/lawpatch/au-ip_transfer/blob/46c52f352f77b06a3f655cc11b0f68bb4ba72630/au-ip_transfer.md) in the Services IP to Contractor, with the exception of any Contributed IP.
-- Contractor [grants a licence](https://github.com/lawpatch/au-ip_license/blob/5a7f77c72443475d8d34fc0487547dfac0671287/au-license_ip.md) {{licence characteristics}} to the Customer to deal with the Services IP for {{license purpose}}.
-
-### Contractor owns the Background IP and Customer owns the New IP.
-
-- Contractor [transfers ownership of the intellectual property rights](https://github.com/lawpatch/au-ip_transfer/blob/46c52f352f77b06a3f655cc11b0f68bb4ba72630/au-ip_transfer.md) in the New IP in the Services IP to Customer, with the exception of any Background IP.
-- Contractor [grants a licence](https://github.com/lawpatch/au-ip_license/blob/5a7f77c72443475d8d34fc0487547dfac0671287/au-license_ip.md) {{licence characteristics}} to the Customer to deal with the Background IP for {{license purpose}}.
-
-### Customer will own all the intellectual property in the Services IP.
-
-Contractor [transfers ownership of the intellectual property rights](https://github.com/lawpatch/au-ip_transfer/blob/46c52f352f77b06a3f655cc11b0f68bb4ba72630/au-ip_transfer.md) in the Services IP to Customer.
+https://github.com/CodePact/au-components/blob/master/intellectual_property.md
 
 ## Limitation of liability
 
-This topic sets out how much the contractor will **compensate** the customer for if something goes wrong with the services.
-
-For example, if the contractor builds an app for a customer that doesn’t work, how much can the customer sue the contractor for?
-
-This is a crucial part of the contract to get right – be careful!
-
-### Contractor will limit the amount it can be sued for by the Customer to the smallest possible amount.
-
-Contractor [limits liability as much as the law allows](https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-0.md) to Customer for the Services, including liabilities caused by:
-
-{{risks to exclude}}
-
-### Contractor will limit the amount it can be sued for by the Customer to an amount of money.
-
-Contractor limits liability to Customer for the Services to {{limitation amount}} in accordance with the [LawPatch amount limitation](https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-1.md), including liabilities caused by:
-
-{{risks to exclude}}
-
-### Customer cannot sue Contractor for direct liabilities but not indirect liabilities.
-
-Contractor [covers liabilities (except for consequential loss)](https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-2.md) to Customer for the Services, including liabilities caused by:
-
-{{risks to exclude}}
-
-### Customer can sue Contractor for any liability from the Services.
-
-Contractor [covers all liabilities incurred](https://github.com/lawpatch/au-limitation/blob/90bb197e3299a4025af8c3db50e33b3f291e66a2/au-limitation-3.md) by Customer for the Services.
+https://github.com/CodePact/au-components/blob/master/limitation.md
 
 ## Termination of agreement
 
@@ -188,14 +134,7 @@ Either party may terminate the Agreement {{termination process}}.
 
 ## Other (necessary) bureaucracy
 
-- The parties agree to this document using http://lawpatch.org language.  LawPatch language referenced by hyperlink is legally effective. Text in the hyperlink is for convenience only and is not legally effective.
-- The governing law of the Agreement will be {{governing law state}}, and the parties agree that this state will be the exclusive jurisdiction for any proceedings under the Agreement.
-- The parties may send Communications to other Agreement parties using the email addresses listed in the party details section of the Agreement.
-- The Customer will be liable for all duties and taxes connected with the Agreement, including any tax incurred under GST Law.
-- The parties enter the Agreement intending to be completely independent of each other, and not as a party to a joint venture, partnership or agency agreement.
-- The parties agree to:
-	- the [LawPatch boilerplate terms](https://github.com/lawpatch/au-boilerplate/blob/d5f1348ff82b3e90b96d78a5ba1225367318c42e/sensible-boilerplate.md); and
-	- the [LawPatch interpretation principles](https://github.com/lawpatch/au-interpretation/blob/84139bfbd5c3580bb215acf2435f6c2a4a608aae/au-interpretation.md).
+https://github.com/CodePact/au-components/blob/master/end_agreement.md
 
 ## Definitions
 
