@@ -82,7 +82,7 @@ Invoices from Contractor will be paid by Customer within {{payment terms}} of Cu
 
 ### Contractor will be paid the fees set out in the Work Scope.
 
-Customer will pay Contractor the fees set out in the Work Scope.
+Customer will pay Contractor the fees on the dates described in the Work Scope.
 
 ## Timing for completion
 
@@ -163,7 +163,7 @@ means {{services description}}.
 means the intellectual property rights in the Services rendered by Contractor to Customer.
 
 ### Work Scope
-means the document {{work scope document}} that sets out the scope of work to be delivered by the Customer to Contractor.
+means the document {{work scope document}} that sets out the scope of work to be delivered by Contractor to Customer.
 
 ## Variables
 
