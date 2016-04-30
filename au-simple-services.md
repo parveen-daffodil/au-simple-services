@@ -29,6 +29,12 @@ Contractor will provide the Services to Customer {{term duration}}, unless the A
 
 Contractor will provide the Services to Customer until Contractor completes the Work Scope.
 
+### Contractor will provide the Services indefinitely to Customer.
+
+- Contractor will provide the Services to Customer for an initial term of {{initial term duration}}.
+- The Agreement will renew continuously and immediately for terms equal to the initial term.
+- If a party provides written notice to the other party {{notice period}} before the end of a term, the Agreement will end on the completion of that term.
+
 ## Calculation of payment
 
 This topic describes how to figure out the amount that the customer will pay the contractor for the services.
