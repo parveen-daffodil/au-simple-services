@@ -140,7 +140,7 @@ any unauthorised access or use of the Confidential Information for which it is r
 
 https://github.com/CodePact/au-components/blob/master/intellectual_property.md
 
-## Limitation of liability
+## Amount a party can be sued for 
 
 https://github.com/CodePact/au-components/blob/e76a0b77feffcee92bf5e6b7f8218c04fd2562e5/limitation.md
 
