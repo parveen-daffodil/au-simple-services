@@ -159,10 +159,6 @@ This topic makes clear under what conditions the parties can terminate the agree
 
 Either party may terminate the Agreement {{termination process}}.
 
-## Extra conditions
-
-{{extra conditions}}
-
 ## Other (necessary) bureaucracy
 
 https://github.com/CodePact/au-components/blob/master/end_agreement.md
