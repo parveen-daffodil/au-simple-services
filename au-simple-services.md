@@ -29,11 +29,9 @@ Contractor will provide the Services to Customer {{term duration}}, unless the A
 
 Contractor will provide the Services to Customer until Contractor completes the Work Scope.
 
-### Contractor will provide the Services indefinitely to Customer.
+### Contractor will provide the Services until the agreement is cancelled.
 
-- Contractor will provide the Services to Customer for an initial term of {{initial term duration}}.
-- The Agreement will renew continuously and immediately for terms equal to the initial term.
-- If a party provides written notice to the other party {{notice period}} before the end of a term, the Agreement will end on the completion of that term.
+Contractor will provide the Services to Customer until the Agreement is cancelled.
 
 ## Calculation of payment
 
@@ -140,9 +138,9 @@ any unauthorised access or use of the Confidential Information for which it is r
 
 https://github.com/CodePact/au-components/blob/master/intellectual_property.md
 
-## Limitation of liability
+## Amount a party can get sued for 
 
-https://github.com/CodePact/au-components/blob/e76a0b77feffcee92bf5e6b7f8218c04fd2562e5/limitation.md
+https://github.com/CodePact/au-components/blob/master/limitation.md
 
 ## Termination of agreement
 
@@ -158,10 +156,6 @@ This topic makes clear under what conditions the parties can terminate the agree
 ### Either party can end the agreement whenever they like with a certain amount of warning.
 
 Either party may terminate the Agreement {{termination process}}.
-
-## Extra conditions
-
-{{extra conditions}}
 
 ## Other (necessary) bureaucracy
 
