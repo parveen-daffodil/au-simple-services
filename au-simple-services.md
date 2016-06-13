@@ -142,7 +142,7 @@ https://github.com/CodePact/au-components/blob/master/intellectual_property.md
 
 ## Amount a party can be sued for 
 
-https://github.com/CodePact/au-components/blob/e76a0b77feffcee92bf5e6b7f8218c04fd2562e5/limitation.md
+https://github.com/CodePact/au-components/blob/master/limitation.md
 
 ## Termination of agreement
 
