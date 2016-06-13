@@ -138,7 +138,7 @@ any unauthorised access or use of the Confidential Information for which it is r
 
 https://github.com/CodePact/au-components/blob/master/intellectual_property.md
 
-## Amount a party can be sued for 
+## Amount a party can get sued for 
 
 https://github.com/CodePact/au-components/blob/master/limitation.md
 
