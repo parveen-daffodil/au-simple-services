@@ -58,20 +58,20 @@ https://github.com/CodePact/au-components/blob/master/intellectual_property.md
 
 https://github.com/CodePact/au-components/blob/master/limitation.md
 
-## Termination of agreement
+## Agreement cancellation
 
-This topic makes clear under what conditions the parties can terminate the agreement prematurely.
+This topic makes clear under what conditions the parties can cancel the agreement prematurely.
 
-### If a party breaks the contract, the other party can terminate the contract.
+### If a party breaks the contract, the other party can cancel the contract.
 
-- Either party may terminate the Agreement immediately if:
+- Either party may cancel the Agreement immediately if:
 	- a party notifies the other party of an Agreement breach; and
 	- 10 days after the breach notification, the Agreement breach is not remedied.
-- Either party may also immediately terminate the Agreement if the other party becomes insolvent.
+- Either party may also immediately cancel the Agreement if the other party becomes insolvent.
 
 ### Either party can end the agreement whenever they like with a certain amount of warning.
 
-Either party may terminate the Agreement {{termination process}}.
+Either party may cancel the Agreement {{termination process}}.
 
 ## Other (necessary) bureaucracy
 
