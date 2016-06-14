@@ -13,7 +13,7 @@ This agreement is on [Github in Markdown](https://github.com/CodePact/au-simple-
 
 `Jurisdiction` Australia
 
-## Agreement duration
+## Agreement length
 
 https://github.com/CodePact/au-components/blob/master/agreement_duration.md
 
