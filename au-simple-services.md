@@ -58,20 +58,13 @@ https://github.com/CodePact/au-components/blob/master/intellectual_property.md
 
 https://github.com/CodePact/au-components/blob/master/limitation.md
 
-## Agreement cancellation
+## Cancellation for breach
 
-This topic makes clear under what conditions the parties can cancel the agreement prematurely.
+https://github.com/CodePact/au-components/blob/master/cancel_breach.md
 
-### If a party breaks the contract, the other party can cancel the contract.
+## Termination for convenience
 
-- Either party may cancel the Agreement immediately if:
-	- a party notifies the other party of an Agreement breach; and
-	- 10 days after the breach notification, the Agreement breach is not remedied.
-- Either party may also immediately cancel the Agreement if the other party becomes insolvent.
-
-### Either party can end the agreement whenever they like with a certain amount of warning.
-
-Either party may cancel the Agreement {{termination process}}.
+https://github.com/CodePact/au-components/blob/master/cancel_convenience.md
 
 ## Other (necessary) bureaucracy
 
