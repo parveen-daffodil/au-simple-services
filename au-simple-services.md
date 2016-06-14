@@ -13,25 +13,9 @@ This agreement is on [Github in Markdown](https://github.com/CodePact/au-simple-
 
 `Jurisdiction` Australia
 
-## Duration of the agreement
+## Agreement duration
 
-This topic makes the start time and the end time of the agreement clear. Is the agreement in force:
-- for a period of time like 6 months or 2 years (option 1); or
-- as long as work on a certain project lasts? (option 2)
-
-Select one of the options below!
-
-### Contractor will deliver Services for a number of days, months or years.
-
-Contractor will provide the Services to Customer {{term duration}}, unless the Agreement is terminated under another provision of the Agreement.
-
-### Contractor will provide the Services for as long as it takes to completes the Work Scope.
-
-Contractor will provide the Services to Customer until Contractor completes the Work Scope.
-
-### Contractor will provide the Services until the agreement is cancelled.
-
-Contractor will provide the Services to Customer until the Agreement is cancelled.
+https://github.com/CodePact/au-components/blob/master/agreement_duration.md
 
 ## Calculation of payment
 
