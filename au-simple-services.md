@@ -13,80 +13,17 @@ This agreement is on [Github in Markdown](https://github.com/CodePact/au-simple-
 
 `Jurisdiction` Australia
 
-## Duration of the agreement
+## Agreement length
 
-This topic makes the start time and the end time of the agreement clear. Is the agreement in force:
-- for a period of time like 6 months or 2 years (option 1); or
-- as long as work on a certain project lasts? (option 2)
-
-Select one of the options below!
-
-### Contractor will deliver Services for a number of days, months or years.
-
-Contractor will provide the Services to Customer {{term duration}}, unless the Agreement is terminated under another provision of the Agreement.
-
-### Contractor will provide the Services for as long as it takes to completes the Work Scope.
-
-Contractor will provide the Services to Customer until Contractor completes the Work Scope.
-
-### Contractor will provide the Services until the agreement is cancelled.
-
-Contractor will provide the Services to Customer until the Agreement is cancelled.
+https://github.com/CodePact/au-components/blob/master/agreement_duration.md
 
 ## Calculation of payment
 
-This topic describes how to figure out the amount that the customer will pay the contractor for the services.
+https://github.com/CodePact/au-components/blob/master/payment_calculation.md
 
-### Contractor is paid at an hourly or daily rate for the Services.
+## Payment method
 
-The fees payable to Contractor in exchange for the Services will be calculated at {{rate of payment}}.
-
-### Contractor will be paid a lump sum in exchange for the Services.
-
-Contractor will be paid the {{total amount}} in exchange for the Services.
-
-### Contractor will be paid the fees set out in the clause table.
-
-Customer will pay Contractor the fees set out in the table below.
-
-{{fees table}}
-
-### Contractor will be paid the fees set out in the Work Scope.
-
-Customer will pay Contractor the fees set out in the Work Scope.
-
-## Timing for payment
-
-This topic clarifies _when_ the customer will pay the contractor for the services.
-
-- Option 1 is best for services provided at an hourly (or some other) rate.
-- Options 2 and 3 are best for work that is based on a project scope.
-
-For larger projects, option 3 is likely the best method – smaller amounts of money change hands, and if the agreement isn’t working, the parties can agree to end it with less money at stake.
-
-### Contractor will invoice Customer for the Services while the Services continue.
-
-Contractor will invoice Customer for the Services rendered during the previous {{billing cycle period}}. The Customer will pay the invoice within {{payment period}} of receiving the invoice.
-
-### Customer will pay a deposit when the Services commence and the rest when the Services are complete.
-
-Contractor will issue Customer with an invoice:
-- for a non-refundable deposit of {{deposit amount}} before commencing the Services; and
-- for {{completion amount}} upon the completion of the Services,
-
-both invoices to be paid by Customer within {{payment terms}} of Customer receiving the invoice.
-
-### The parties will break up payments into "milestones" where Customer pays Contractor when stages of the project are complete.
-
-Contractor will issue Customer with invoices for the amounts set out below in accordance with the completion milestones set out below.
-
-{{milestones}}
-
-Invoices from Contractor will be paid by Customer within {{payment terms}} of Customer receiving the invoice.
-
-### Contractor will be paid the fees set out in the Work Scope.
-
-Customer will pay Contractor the fees on the dates described in the Work Scope.
+https://github.com/CodePact/au-components/blob/master/payment_method.md
 
 ## Timing for completion
 
@@ -111,28 +48,7 @@ When you’re providing services to complete a project scope, there are often ch
 
 ## Confidentiality
 
-**General obligation of confidentiality**
-
-- Confidential Information will be disclosed by Customer to Contractor at the discretion of the Customer.
-- Contractor agrees to use the Confidential Information solely to provide the Services.
-- Contractor agrees to keep the Confidential Information strictly confidential.
-
-**Standard of confidentiality**
-
-Contractor agrees to:
-- utilize industry standard security techniques to prevent;
-- immediately notify the Customer of; and
-- use its best endeavours to mitigate the effects of,
-
-any unauthorised access or use of the Confidential Information for which it is responsible in whole or in part.
-
-**Permitted disclosures**
-
-- Contractor is permitted to disclose Confidential Information if:
-	- the disclosure is necessary in order to enforce the Agreement; or
-	- the disclosure is required by law or a binding order of a government agency or court.
-- Contractor must not make such a disclosure without first notifying the Customer and giving the Customer a reasonable opportunity to object to the disclosure.
-- Contractor must also use reasonable endeavours to ensure the person receiving the Confidential Information under this clause will treat it confidentially.
+https://github.com/CodePact/au-components/blob/master/confidentiality.md
 
 ## Intellectual property
 
@@ -142,20 +58,13 @@ https://github.com/CodePact/au-components/blob/master/intellectual_property.md
 
 https://github.com/CodePact/au-components/blob/master/limitation.md
 
-## Termination of agreement
+## Cancellation for breach
 
-This topic makes clear under what conditions the parties can terminate the agreement prematurely.
+https://github.com/CodePact/au-components/blob/master/cancel_breach.md
 
-### If a party breaks the contract, the other party can terminate the contract.
+## Cancellation for convenience
 
-- Either party may terminate the Agreement immediately if:
-	- a party notifies the other party of an Agreement breach; and
-	- 10 days after the breach notification, the Agreement breach is not remedied.
-- Either party may also immediately terminate the Agreement if the other party becomes insolvent.
-
-### Either party can end the agreement whenever they like with a certain amount of warning.
-
-Either party may terminate the Agreement {{termination process}}.
+https://github.com/CodePact/au-components/blob/master/cancel_convenience.md
 
 ## Other (necessary) bureaucracy
 
