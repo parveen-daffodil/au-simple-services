@@ -54,7 +54,7 @@ https://github.com/CodePact/au-components/blob/master/confidentiality.md
 
 https://github.com/CodePact/au-components/blob/master/intellectual_property.md
 
-## Amount a party can get sued for 
+## Limits on suing
 
 https://github.com/CodePact/au-components/blob/master/limitation.md
 
