@@ -15,51 +15,51 @@ This agreement is on [Github in Markdown](https://github.com/CodePact/au-simple-
 
 ## Agreement length
 
-https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
+https://github.com/CodePact/au-components/blob/master/agreement_duration.md
 
 ## Calculation of payment
 
-https://github.com/CodePact/au-components/blob/widgets/payment_calculation.md
+https://github.com/CodePact/au-components/blob/master/payment_calculation.md
 
 ## Payment method
 
-https://github.com/CodePact/au-components/blob/widgets/payment_method.md
+https://github.com/CodePact/au-components/blob/master/payment_method.md
 
 ## Timing for completion
 
-https://github.com/CodePact/au-components/blob/widgets/completion_timing.md
+https://github.com/CodePact/au-components/blob/master/completion_timing.md
 
 ## Out of scope work
 
-https://github.com/CodePact/au-components/blob/widgets/out_scope_work.md
+https://github.com/CodePact/au-components/blob/master/out_scope_work.md
 
 ## Confidentiality
 
-https://github.com/CodePact/au-components/blob/widgets/confidentiality.md
+https://github.com/CodePact/au-components/blob/master/confidentiality.md
 
 ## Intellectual property
 
-https://github.com/CodePact/au-components/blob/widgets/ip_services.md
+https://github.com/CodePact/au-components/blob/master/ip_services.md
 
 ## Claim limits
 
-https://github.com/CodePact/au-components/blob/widgets/limitation.md
+https://github.com/CodePact/au-components/blob/master/limitation.md
 
 ## Covering costs
 
-https://github.com/CodePact/au-components/blob/widgets/indemnity.md
+https://github.com/CodePact/au-components/blob/master/indemnity.md
 
 ## Cancellation for breach
 
-https://github.com/CodePact/au-components/blob/widgets/cancel_breach.md
+https://github.com/CodePact/au-components/blob/master/cancel_breach.md
 
 ## Cancellation for convenience
 
-https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
+https://github.com/CodePact/au-components/blob/master/cancel_convenience.md
 
 ## Other (necessary) bureaucracy
 
-https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
+https://github.com/CodePact/au-components/blob/master/necessary_bureaucracy.md
 
 ## Definitions
 
