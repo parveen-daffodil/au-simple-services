@@ -13,10 +13,6 @@ This agreement is on [Github in Markdown](https://github.com/CodePact/au-simple-
 
 `Jurisdiction` Australia
 
-## Agreement length
-
-https://github.com/CodePact/au-components/blob/master/agreement_duration.md
-
 ## Calculation of payment
 
 https://github.com/CodePact/au-components/blob/master/payment_calculation.md
@@ -25,13 +21,17 @@ https://github.com/CodePact/au-components/blob/master/payment_calculation.md
 
 https://github.com/CodePact/au-components/blob/master/payment_method.md
 
-## Timing for completion
-
-https://github.com/CodePact/au-components/blob/master/completion_timing.md
-
 ## Out of scope work
 
 https://github.com/CodePact/au-components/blob/master/out_scope_work.md
+
+## Agreement length
+
+https://github.com/CodePact/au-components/blob/master/agreement_duration.md
+
+## Timing for completion
+
+https://github.com/CodePact/au-components/blob/master/completion_timing.md
 
 ## Confidentiality
 
