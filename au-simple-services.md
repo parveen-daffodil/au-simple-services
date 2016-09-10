@@ -21,6 +21,10 @@ https://github.com/CodePact/au-components/blob/master/payment_calculation.md
 
 https://github.com/CodePact/au-components/blob/master/payment_method.md
 
+## Supply of Services
+
+https://github.com/Codepact/au-components/blob/master/services_supply.md
+
 ## Out of scope work
 
 https://github.com/CodePact/au-components/blob/master/out_scope_work.md
