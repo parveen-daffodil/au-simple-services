@@ -21,7 +21,7 @@ https://github.com/CodePact/au-components/blob/master/payment_calculation.md
 
 https://github.com/CodePact/au-components/blob/master/payment_method.md
 
-## Supply of Services
+## Supply of services
 
 https://github.com/Codepact/au-components/blob/master/services_supply.md
 
