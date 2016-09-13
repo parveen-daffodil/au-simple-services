@@ -13,6 +13,10 @@ This agreement is on [Github in Markdown](https://github.com/CodePact/au-simple-
 
 `Jurisdiction` Australia
 
+## Supply of services
+
+https://github.com/Codepact/au-components/blob/master/services_supply.md
+
 ## Calculation of payment
 
 https://github.com/CodePact/au-components/blob/master/payment_calculation.md
@@ -20,10 +24,6 @@ https://github.com/CodePact/au-components/blob/master/payment_calculation.md
 ## Payment method
 
 https://github.com/CodePact/au-components/blob/master/payment_method.md
-
-## Supply of services
-
-https://github.com/Codepact/au-components/blob/master/services_supply.md
 
 ## Out of scope work
 
